@@ -1,6 +1,6 @@
 # Modpack for OxygenOS / Android Q
 
-    DOWNLOAD -> https://github.com/niklas389/op5t_q_modpack/releases/latest
+    DOWNLOAD -> https://github.com/niklas389/kb2003_R_modpack/releases/latest
 
 ## Features
 - Replaced Roboto font with Google Product Sans
