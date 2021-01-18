@@ -3,4 +3,5 @@ name=OnePlus ModPack for OxygenOS 11
 version=v4
 versionCode=4
 author=niklas389
-description=Removes Bloat, disables some Google services and adds some features.
+description=Removes Bloat, disables some Google Apps + services.
+
