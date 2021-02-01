@@ -178,6 +178,8 @@ on_install() {
 
   ui_print "- Installing..."
   unzip -o "$ZIPFILE" 'system/*' -d $MODPATH >&2
+
+  settings put global guest_user_enabled 0
 }
 
 # Only some special files require specific permissions

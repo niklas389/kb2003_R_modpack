@@ -6,7 +6,7 @@
 # if Magisk change its mount point in the future
 MODDIR=${0%/*}
 
-# This script will be executed when Magisk removes the modulepm disable com.google.android.gms/com.google.android.gms.analytics.service.AnalyticsService
+# This script will be executed when Magisk removes the module
 pm enable com.google.android.gms/com.google.android.gms.analytics.service.AnalyticsService
 pm enable com.google.android.gms/com.google.android.gms.nearby.discovery.service.DiscoveryService
 pm enable com.google.android.gms/com.google.android.gms.ads.AdRequestBrokerService

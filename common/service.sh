@@ -17,5 +17,3 @@ pm disable com.google.android.gms/com.google.android.gms.nearby.discovery.servic
 pm disable com.google.android.gms/com.google.android.gms.ads.AdRequestBrokerService
 pm disable com.google.android.gms/com.google.android.gms.checkin.CheckinApiService
 pm disable com.google.android.gms/com.google.android.gms.ads.identifier.service.AdvertisingIdService
-# Disable collective Device administrators;
-pm disable com.google.android.gms/com.google.android.gms.mdm.receivers.MdmDeviceAdminReceiver
