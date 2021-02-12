@@ -53,13 +53,12 @@ REPLACE_EXAMPLE="
 # /system/app/OEMLogKit
 # /system/product/app/Account
 REPLACE="
-/system/priv-app/CellBroadcastLegacyApp
 /system/app/BasicDreams
-/system/app/BTtestmode
 /system/app/OPMinidumpOptimization
 /system/app/SoterService
 /system/app/Stk
 /system/app/Traceur
+/system/priv-app/CellBroadcastLegacyApp
 /system/product/app/Chrome
 /system/product/app/Drive
 /system/product/app/Duo
@@ -71,6 +70,7 @@ REPLACE="
 /system/product/app/YouTube
 /system/product/app/YTMusic
 /system/product/priv-app/AndroidAutoStub
+/system/system_ext/app/BTtestmode
 /system/system_ext/app/OPFilemanager
 /system/system_ext/app/EngineeringMode
 /system/system_ext/app/EngSpecialTest
@@ -86,6 +86,7 @@ REPLACE="
 /system/system_ext/app/OPTelephonyDiagnoseManager
 /system/system_ext/app/Rftoolkit
 /system/system_ext/app/SensorTestTool
+/system/system_ext/priv-app/OPAccessoryFramework
 /system/system_ext/priv-app/OpLogkit
 "
 
