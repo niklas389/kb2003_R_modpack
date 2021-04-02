@@ -54,11 +54,15 @@ REPLACE_EXAMPLE="
 # /system/product/app/Account
 REPLACE="
 /system/app/BasicDreams
+/system/app/BookmarkProvider
+/system/app/BTtestmode
 /system/app/OPMinidumpOptimization
+/system/app/PartnerBookmarksProvider
 /system/app/SoterService
 /system/app/Stk
 /system/app/Traceur
 /system/priv-app/CellBroadcastLegacyApp
+/system/priv-app/OPCommunicationData
 /system/product/app/Chrome
 /system/product/app/Drive
 /system/product/app/Duo
@@ -70,6 +74,7 @@ REPLACE="
 /system/product/app/YouTube
 /system/product/app/YTMusic
 /system/product/priv-app/AndroidAutoStub
+/system/system_ext/app/AntHalService-Soong
 /system/system_ext/app/BTtestmode
 /system/system_ext/app/OPFilemanager
 /system/system_ext/app/EngineeringMode
@@ -79,13 +84,17 @@ REPLACE="
 /system/system_ext/app/NVBackupUI
 /system/system_ext/app/oem_tcma
 /system/system_ext/app/OemAutoTestServer
+/system/system_ext/app/OPAppUpgrader
 /system/system_ext/app/OPBugReportLite
 /system/system_ext/app/OPCommonLogTool
 /system/system_ext/app/OPEngMode
+/system/system_ext/app/OPOnlineConfig
 /system/system_ext/app/OPTelephonyCollectionData
 /system/system_ext/app/OPTelephonyDiagnoseManager
+/system/system_ext/app/QTIDiagServices
 /system/system_ext/app/Rftoolkit
 /system/system_ext/app/SensorTestTool
+/system/system_ext/priv-app/By_3rd_OPODDMClient
 /system/system_ext/priv-app/OPAccessoryFramework
 /system/system_ext/priv-app/OpLogkit
 "
@@ -162,9 +171,9 @@ print_modname() {
   ui_print " "
   ui_print "****************************************"
   ui_print " "
-  ui_print "          OxygenOS 11 ModPack"
-  ui_print " "
-  ui_print "         by niklas389 @ Github"
+  ui_print "            Magisk ModPack"
+  ui_print "            for OxygenOS 11"
+  ui_print "       by niklas389 @ Github & XDA"
   ui_print " "
   ui_print "****************************************"
   ui_print " "
