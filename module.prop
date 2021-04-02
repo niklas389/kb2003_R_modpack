@@ -1,7 +1,7 @@
 id=niklas389_oos_modpack_r
-name=OnePlus ModPack for OxygenOS 11
-version=v7
-versionCode=7
+name=ModPack for OxygenOS 11
+version=v8
+versionCode=8
 author=niklas389
-description=Removes Bloat, disables some Google Apps + services.
+description=Removes Bloat and adds some nice features.
 
