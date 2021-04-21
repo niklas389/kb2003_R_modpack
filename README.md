@@ -12,16 +12,17 @@
 - Disabled unnecessary OnePlus & Google Apps
 - Multiuser will be disabled automatically (Can be enabled in Settings)
 
-#### Disabled Google Play Services functions
+### Disabled Google Play Services functions
 
 - com.google.android.gms.analytics.service.AnalyticsService
 - com.google.android.gms.nearby.discovery.service.DiscoveryService
 - com.google.android.gms.ads.AdRequestBrokerService
 - com.google.android.gms.checkin.CheckinApiService
 - com.google.android.gms.ads.identifier.service.AdvertisingIdService
-    - [You won't get an Google Advertising Id after installing this mod]
+  - [You won't get an Google Advertising Id after installing this mod]
 
-#### Disabled Apps
+### Disabled Apps
+
 - /system/app/BasicDreams
 - /system/app/BookmarkProvider
 - /system/app/BTtestmode
@@ -67,15 +68,18 @@
 - /system/system_ext/priv-app/OPAccessoryFramework
 - /system/system_ext/priv-app/OpLogkit
 
-
 ## Changelog
 
+- v9
+  - Added updated OP Live Wallpaper
+  - Setting animation scales to 0.65 (faster animations system-wide)
+
 - v8
-    - Added more apps to Kill-List
-    - Updated media
-    - Updated Readme
+  - Added more apps to Kill-List
+  - Updated media
+  - Updated Readme
 
 - v7
-    - Added OnePlus Accessory (App for Oneplus Fitness Band)
-    - fixed BTTestmode not being disabled
-    - updated iOS Emoji
+  - Added OnePlus Accessory (App for Oneplus Fitness Band)
+  - fixed BTTestmode not being disabled
+  - updated iOS Emoji
