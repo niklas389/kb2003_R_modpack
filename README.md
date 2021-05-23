@@ -11,6 +11,7 @@
 - H2OS Bootanimation
 - Disabled unnecessary OnePlus & Google Apps
 - Multiuser will be disabled automatically (Can be enabled in Settings)
+- Blurred Background (Notification shade)
 
 ### Disabled Google Play Services functions
 
@@ -69,6 +70,9 @@
 - /system/system_ext/priv-app/OpLogkit
 
 ## Changelog
+
+- v10
+  - Enabled Android 11 Background Blur
 
 - v9
   - Added updated OP Live Wallpaper

@@ -25,7 +25,7 @@
 SKIPMOUNT=false
 
 # Set to true if you need to load system.prop
-PROPFILE=false
+PROPFILE=true
 
 # Set to true if you need post-fs-data script
 POSTFSDATA=false
@@ -88,10 +88,8 @@ REPLACE="
 /system/system_ext/app/OPBugReportLite
 /system/system_ext/app/OPCommonLogTool
 /system/system_ext/app/OPEngMode
-/system/system_ext/app/OPOnlineConfig
 /system/system_ext/app/OPTelephonyCollectionData
 /system/system_ext/app/OPTelephonyDiagnoseManager
-/system/system_ext/app/QTIDiagServices
 /system/system_ext/app/Rftoolkit
 /system/system_ext/app/SensorTestTool
 /system/system_ext/priv-app/By_3rd_OPODDMClient
