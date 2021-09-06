@@ -8,7 +8,7 @@
 - Added some basic ringtones, notifications and alarm sounds
 - iOS 14 Emojis
 - Some Google Play Services will be disabled on boot (see below)
-- H2OS Bootanimation
+- H²OS Bootanimation
 - Disabled unnecessary OnePlus & Google Apps
 - Multiuser will be disabled automatically (Can be enabled in Settings)
 - Blurred Background (Notification shade)
@@ -20,13 +20,14 @@
 - com.google.android.gms.ads.AdRequestBrokerService
 - com.google.android.gms.checkin.CheckinApiService
 - com.google.android.gms.ads.identifier.service.AdvertisingIdService
-  - [You won't get an Google Advertising Id after installing this mod]
+  - [You won't get an Google Advertising Id after installing this mod - may break apps/games!]
 
 ### Disabled Apps
 
 - /system/app/BasicDreams
 - /system/app/BookmarkProvider
 - /system/app/BTtestmode
+- /system/app/By_3rd_PlayAutoInstallConfigOverSeas
 - /system/app/OPMinidumpOptimization
 - /system/app/PartnerBookmarksProvider
 - /system/app/SoterService
@@ -71,6 +72,9 @@
 
 ## Changelog
 
+- v11
+  - Switched to Google Text Font
+  
 - v10
   - Enabled Android 11 Background Blur
 

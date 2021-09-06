@@ -56,6 +56,7 @@ REPLACE="
 /system/app/BasicDreams
 /system/app/BookmarkProvider
 /system/app/BTtestmode
+/system/app/By_3rd_PlayAutoInstallConfigOverSeas
 /system/app/OPMinidumpOptimization
 /system/app/PartnerBookmarksProvider
 /system/app/SoterService
@@ -187,7 +188,12 @@ on_install() {
   ui_print "- Installing..."
   unzip -o "$ZIPFILE" 'system/*' -d $MODPATH >&2
 
+  #disabling guest user
   settings put global guest_user_enabled 0
+  #setting animation scales
+  settings put global window_animation_scale 0.65
+  settings put global transition_animation_scale 0.65
+  settings put global animator_duration_scale 0.65
 }
 
 # Only some special files require specific permissions

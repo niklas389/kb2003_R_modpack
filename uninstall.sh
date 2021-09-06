@@ -12,5 +12,3 @@ pm enable com.google.android.gms/com.google.android.gms.nearby.discovery.service
 pm enable com.google.android.gms/com.google.android.gms.ads.AdRequestBrokerService
 pm enable com.google.android.gms/com.google.android.gms.checkin.CheckinApiService
 pm enable com.google.android.gms/com.google.android.gms.ads.identifier.service.AdvertisingIdService
-
-settings put global guest_user_enabled 1

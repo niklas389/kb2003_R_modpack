@@ -17,7 +17,10 @@ pm disable com.google.android.gms/com.google.android.gms.nearby.discovery.servic
 pm disable com.google.android.gms/com.google.android.gms.ads.AdRequestBrokerService
 pm disable com.google.android.gms/com.google.android.gms.checkin.CheckinApiService
 pm disable com.google.android.gms/com.google.android.gms.ads.identifier.service.AdvertisingIdService
-
-settings put global window_animation_scale 0.65
-settings put global transition_animation_scale 0.65
-settings put global animator_duration_scale 0.65
+pm disable com.google.android.gms/com.google.android.gms.analytics.AnalyticsService
+pm disable com.google.android.gms/com.google.android.gms.measurement.AppMeasurementJobService
+pm disable com.google.android.gms/com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+pm disable com.google.android.gms/com.google.android.gms.measurement.PackageMeasurementReceiver
+pm disable com.google.android.gms/com.google.android.gms.measurement.PackageMeasurementService
+pm disable com.google.android.gms/com.google.android.gms.measurement.service.MeasurementBrokerService
+pm disable com.google.android.gms/com.google.android.location.internal.AnalyticsSamplerReceiver
