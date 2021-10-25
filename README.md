@@ -35,6 +35,7 @@
 - /system/app/Traceur
 - /system/priv-app/CellBroadcastLegacyApp
 - /system/priv-app/OPCommunicationData
+- /system/priv-app/OPCFilesGoogle
 - /system/product/app/Chrome
 - /system/product/app/Drive
 - /system/product/app/Duo

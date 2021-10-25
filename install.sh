@@ -63,6 +63,7 @@ REPLACE="
 /system/app/Stk
 /system/app/Traceur
 /system/priv-app/CellBroadcastLegacyApp
+/system/priv-app/FilesGoogle
 /system/priv-app/OPCommunicationData
 /system/product/app/Chrome
 /system/product/app/Drive
