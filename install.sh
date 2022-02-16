@@ -84,6 +84,7 @@ REPLACE="
 /system/system_ext/app/LogKitSdService
 /system/system_ext/app/NFCTestMode
 /system/system_ext/app/NVBackupUI
+/system/system_ext/app/Maps
 /system/system_ext/app/oem_tcma
 /system/system_ext/app/OemAutoTestServer
 /system/system_ext/app/OPAppUpgrader
@@ -97,6 +98,7 @@ REPLACE="
 /system/system_ext/priv-app/By_3rd_OPODDMClient
 /system/system_ext/priv-app/OPAccessoryFramework
 /system/system_ext/priv-app/OpLogkit
+/system/system_ext/priv-app/OnePlusCamera
 "
 
 ##########################################################################################

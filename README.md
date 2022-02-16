@@ -6,12 +6,13 @@
 
 - Replaced Roboto font with Google Product Sans
 - Added some basic ringtones, notifications and alarm sounds
-- iOS 14 Emojis
+- iOS 15 Emojis (thanks to @zelodev / XDA)
 - Some Google Play Services will be disabled on boot (see below)
 - H²OS Bootanimation
 - Disabled unnecessary OnePlus & Google Apps
 - Multiuser will be disabled automatically (Can be enabled in Settings)
 - Blurred Background (Notification shade)
+- Updates the OnePlus Camera to v6.X
 
 ### Disabled Google Play Services functions
 
@@ -73,6 +74,13 @@
 
 ## Changelog
 
+- v13
+  - Updated Emoji
+  - Fixed OnePlus Camera
+
+- v12
+  - Added Updated OnePlus Camera
+  
 - v11
   - Switched to Google Text Font
   
