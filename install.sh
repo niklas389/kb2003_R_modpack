@@ -28,7 +28,7 @@ SKIPMOUNT=false
 PROPFILE=true
 
 # Set to true if you need post-fs-data script
-POSTFSDATA=false
+POSTFSDATA=true
 
 # Set to true if you need late_start service script
 LATESTARTSERVICE=true
@@ -98,9 +98,9 @@ REPLACE="
 /system/system_ext/priv-app/By_3rd_OPODDMClient
 /system/system_ext/priv-app/OPAccessoryFramework
 /system/system_ext/priv-app/OpLogkit
-/system/system_ext/priv-app/OnePlusCamera
 "
 
+# /system/system_ext/priv-app/OnePlusCamera
 ##########################################################################################
 #
 # Function Callbacks

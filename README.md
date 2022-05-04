@@ -12,7 +12,6 @@
 - Disabled unnecessary OnePlus & Google Apps
 - Multiuser will be disabled automatically (Can be enabled in Settings)
 - Blurred Background (Notification shade)
-- Updates the OnePlus Camera to v6.X
 
 ### Disabled Google Play Services functions
 
@@ -73,6 +72,9 @@
 - /system/system_ext/priv-app/OpLogkit
 
 ## Changelog
+
+- v13.1
+  - Removed OnePlus Camera
 
 - v13
   - Updated Emoji

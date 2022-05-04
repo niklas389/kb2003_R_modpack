@@ -7,3 +7,8 @@
 MODDIR=${0%/*}
 
 # This script will be executed in post-fs-data mode
+resetprop ctl.stop dtest
+resetprop ctl.stop oemlogkit
+resetprop ctl.stop charger_logkit
+resetprop ctl.stop dumpstate_log
+resetprop ctl.stop oemasserttip
